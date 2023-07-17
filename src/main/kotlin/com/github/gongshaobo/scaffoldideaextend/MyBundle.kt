@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.gongshaobo.scaffoldideaextend
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
